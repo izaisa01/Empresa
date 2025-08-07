@@ -5,7 +5,7 @@
   font-family: "Roboto", sans-serif;
 }
 body {
-   background-image: url();
+   background-image: url(midia_final/fundo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -78,4 +78,5 @@ header{
 .aviso{
   font-size: 15px;
   color:#121339;
+
 }
