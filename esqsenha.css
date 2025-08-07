@@ -5,13 +5,14 @@
   font-family: "Roboto", sans-serif;
 }
 body {
-   background-image: url(midia_final/fundo.jpg);
+  background-image: url(midia_final/fundo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
   justify-content: center;
   align-items: center;
   gap: 40px;
+
 }
 main {
   padding: 40px;
@@ -80,3 +81,4 @@ header{
   color:#121339;
 
 }
+
